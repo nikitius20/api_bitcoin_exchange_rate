@@ -1,0 +1,19 @@
+{
+  "name": "api_bitcoin_exchange_rate",
+  "version": "1.0.0",
+  "description": "api to get bitcoin exchange rate on email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitius20/api_bitcoin_exchange_rate.git"
+  },
+  "author": "Nikita Zaika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitius20/api_bitcoin_exchange_rate/issues"
+  },
+  "homepage": "https://github.com/nikitius20/api_bitcoin_exchange_rate#readme"
+}
