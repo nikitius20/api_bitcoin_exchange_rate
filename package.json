@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/nikitius20/api_bitcoin_exchange_rate/issues"
   },
-  "homepage": "https://github.com/nikitius20/api_bitcoin_exchange_rate#readme"
+  "homepage": "https://github.com/nikitius20/api_bitcoin_exchange_rate#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "node-mailjet": "^5.1.1",
+    "nodemon": "^2.0.19"
+  }
 }
